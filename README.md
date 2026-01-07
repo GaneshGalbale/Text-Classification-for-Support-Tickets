@@ -56,7 +56,7 @@ This behavior reflects realistic customer support data challenges. The primary g
 - Matplotlib, Seaborn (visualization)
 
 ## How to run:
-- Download Dataset file import into Google Colab runtime.
+- Download customer_support_tickets.csv file import into Google Colab runtime.
 - Download the ticket_classification.ipynb file and run in Google Colab.
 
 ---
