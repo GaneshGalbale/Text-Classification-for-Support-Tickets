@@ -59,6 +59,8 @@ This behavior reflects realistic customer support data challenges. The primary g
 - Download customer_support_tickets.csv file import into Google Colab runtime.
 - Download the ticket_classification.ipynb file and run in Google Colab.
 
+## Notes
+This project was developed as part of a recruitment task to demonstrate practical NLP implementation for customer support ticket classification.
 ---
 
 
