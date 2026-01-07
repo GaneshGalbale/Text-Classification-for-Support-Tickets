@@ -58,4 +58,17 @@ This behavior reflects realistic customer support data challenges. The primary g
 ---
 
 ## Project Structure
+Ticket-classification-for-Support Tickets/
+│
+├── data/
+│ └── Customer_Support_Ticket_Data.csv
+│
+├── notebooks/
+│ └── Ticket_Classification.ipynb
+│
+├── outputs/
+│ └── confusion_matrix.png
+│
+├── requirements.txt
+└── README.md
 
